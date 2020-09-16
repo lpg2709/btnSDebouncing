@@ -1,6 +1,7 @@
 /*
  * Author: Leonardo Padilha Guarezi
  * Github: https://github.com/lpg2709
+ *   repository: https://github.com/lpg2709/btnSDebouncing
  *
  * Simple software deboucing lib for Arduino and esp32
  *
