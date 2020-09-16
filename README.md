@@ -7,8 +7,8 @@ btnSDebouncing.h is a header only lib that implements simple software debouncing
 In your file where a button will be used:
 
 ```c
-    #define BTNSDEBOUCINH_H
-    #include "btnSDebouncing.h"
+#define BTNSDEBOUCINH_H
+#include "btnSDebouncing.h"
 ```
 
 ## What's in the lib
